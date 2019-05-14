@@ -36,6 +36,7 @@ Then, in your command line, type this:
 python3 table_manager.py
 ```
 Your screen should look a little something like this 
+![Screen Shot 2019-05-13 at 11 28 23 PM](https://user-images.githubusercontent.com/47371676/57670932-17d89880-75d7-11e9-8e6d-ea118fc8939d.png)
 
 
 
