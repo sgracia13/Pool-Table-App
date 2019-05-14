@@ -10,9 +10,9 @@ application will take care of all of your needs.
 
 
 
-## Install On Your Own Machine
+## Install and Run
 
-
+Installation:
 
 ```bash
 Option 1: download zip file and open
@@ -21,6 +21,22 @@ Option 1: download zip file and open
 ```bash
 Option 2: From your terminal type:   git clone https://github.com/sgracia13/Pool-Table-App.git
 ```
+
+Running the app:
+
+
+Make sure to get into the app directory by doing this on your command line
+```bash
+cd [NAME OF POOL TABLE APP ON YOUR LOCAL MACHINE HERE]
+```
+
+Then, in your command line, type this:
+
+```bash
+python3 table_manager.py
+```
+Your screen should look a little something like this 
+
 
 
 ## Contributing
